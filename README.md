@@ -21,7 +21,7 @@ Signed memoranda (24 October 2026) with CUPCONL and the community of Río Grande
 
 The world needs lithium, but mining has a bad name: for centuries, the wealth under the ground in Potosí left and the people who live on it stayed poor. Even Pope Leo XIV has condemned the "colonization" of minerals by mining companies.
 
-We have been developing this project since 2024 to change that. We call it globalisation 2.0, or social mining: the people who live next to the resource decide how their share is spent and receive it directly, every month, on their phone, with no one in between and in the open.
+In 2024 we were asked to develop a green lithium extraction project. We took it further, to what we call globalisation 2.0, or social mining: the people who live next to the resource decide how their share is spent and receive it directly, every month, on their phone, with no one in between and in the open.
 
 Uyuni is the first project to ring-fence at least 15% of the private partners' profits for the people of the territory. Decidimos is built to be copied: the next lithium, copper, tin or silver project, in Bolivia or elsewhere, can use the same model and the same payout rail on Polkadot.
 
